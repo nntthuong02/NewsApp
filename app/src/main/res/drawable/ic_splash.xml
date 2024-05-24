@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+
+    <!-- Nền của biểu tượng -->
+    <path
+        android:fillColor="#1ED820"
+        android:pathData="M0,0h240v240H0z" />
+
+    <!-- Chữ N đầu tiên -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,150 L75,150 L75,110 L90,150 L105,150 L105,90 L90,90 L90,130 L75,90 L60,90 Z" />
+
+    <!-- Chữ N thứ hai -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M90,150 L105,150 L105,110 L120,150 L135,150 L135,90 L120,90 L120,130 L105,90 L90,90 Z
+                          M115,120 L115,122.5 M130,120 L130,122.5"/>
+
+    <!-- Chữ T -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M180,90 L180,100 L165,100 L165,150 L150,150 L150,100 L135,100 L135,90 Z" />
+</vector>
